@@ -16,4 +16,7 @@ chmod +x InfoHunt.py
 ./InfoHunt.py
 
 ```
+# Appearance
+
+![IMG_20230723_173131](https://github.com/MIISTERC/InfoHunt/assets/130668957/60ec93be-dd75-43c9-817c-5aad84a50d78)
 
