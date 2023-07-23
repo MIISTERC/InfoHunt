@@ -9,7 +9,7 @@ cd InfoHunt
 pip3 install -r requirements.txt
 
 ```
-##Usage
+## Usage
 ```
 python3 InfoHunt.py
 
