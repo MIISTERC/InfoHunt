@@ -12,8 +12,7 @@ pip3 install -r requirements.txt
 ```
 ## Usage
 ```
-chmod +x InfoHunt.py
-./InfoHunt.py
+python3 InfoHunt.py
 
 ```
 # Appearance
